@@ -1,0 +1,342 @@
+
+symbols.png
+size: 1133,1133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biantexiao/ripple_bacon_1
+  rotate: false
+  xy: 637, 223
+  size: 114, 91
+  orig: 114, 91
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_bacon_2
+  rotate: false
+  xy: 637, 132
+  size: 114, 89
+  orig: 114, 89
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_blood_1
+  rotate: true
+  xy: 1004, 994
+  size: 137, 88
+  orig: 137, 88
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_blood_2
+  rotate: true
+  xy: 1004, 855
+  size: 137, 88
+  orig: 137, 88
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_corn_1
+  rotate: true
+  xy: 421, 22
+  size: 111, 88
+  orig: 111, 88
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_corn_2
+  rotate: false
+  xy: 511, 45
+  size: 111, 88
+  orig: 111, 88
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_enoki1
+  rotate: true
+  xy: 1035, 56
+  size: 99, 82
+  orig: 99, 82
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_enoki2
+  rotate: false
+  xy: 726, 16
+  size: 99, 82
+  orig: 99, 82
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_fishball1
+  rotate: true
+  xy: 671, 577
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_fishball2
+  rotate: true
+  xy: 671, 444
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_lotus1
+  rotate: true
+  xy: 2, 237
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_lotus2
+  rotate: false
+  xy: 257, 395
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_mushroom1
+  rotate: false
+  xy: 320, 294
+  size: 122, 85
+  orig: 122, 85
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_mushroom2
+  rotate: false
+  xy: 320, 207
+  size: 122, 85
+  orig: 122, 85
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_potato_1
+  rotate: false
+  xy: 2, 182
+  size: 106, 53
+  orig: 106, 53
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_potato_2
+  rotate: true
+  xy: 366, 99
+  size: 106, 53
+  orig: 106, 53
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_prawn1
+  rotate: false
+  xy: 624, 39
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_prawn2
+  rotate: true
+  xy: 942, 55
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_stomach_1
+  rotate: true
+  xy: 366, 381
+  size: 124, 85
+  orig: 124, 85
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_stomach_2
+  rotate: true
+  xy: 652, 316
+  size: 126, 85
+  orig: 126, 85
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_throat_1
+  rotate: true
+  xy: 178, 530
+  size: 133, 77
+  orig: 133, 77
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_throat_2
+  rotate: true
+  xy: 178, 395
+  size: 133, 77
+  orig: 133, 77
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_tofu1
+  rotate: true
+  xy: 183, 782
+  size: 115, 73
+  orig: 115, 73
+  offset: 0, 0
+  index: -1
+biantexiao/ripple_tofu2
+  rotate: true
+  xy: 183, 665
+  size: 115, 73
+  orig: 115, 73
+  offset: 0, 0
+  index: -1
+symbols/active_bacon
+  rotate: false
+  xy: 756, 477
+  size: 206, 192
+  orig: 206, 192
+  offset: 0, 0
+  index: -1
+symbols/active_blood
+  rotate: true
+  xy: 765, 671
+  size: 242, 202
+  orig: 242, 202
+  offset: 0, 0
+  index: -1
+symbols/active_corn
+  rotate: false
+  xy: 2, 712
+  size: 174, 185
+  orig: 174, 185
+  offset: 0, 0
+  index: -1
+symbols/active_enoki
+  rotate: true
+  xy: 2, 21
+  size: 134, 179
+  orig: 134, 179
+  offset: 0, 0
+  index: -1
+symbols/active_fishball
+  rotate: false
+  xy: 258, 507
+  size: 195, 193
+  orig: 195, 193
+  offset: 0, 0
+  index: -1
+symbols/active_lotus
+  rotate: false
+  xy: 261, 702
+  size: 203, 196
+  orig: 203, 196
+  offset: 0, 0
+  index: -1
+symbols/active_mushroom
+  rotate: true
+  xy: 138, 202
+  size: 191, 180
+  orig: 191, 180
+  offset: 0, 0
+  index: -1
+symbols/active_potato
+  rotate: true
+  xy: 969, 678
+  size: 175, 160
+  orig: 175, 160
+  offset: 0, 0
+  index: -1
+symbols/active_prawn
+  rotate: false
+  xy: 183, 13
+  size: 181, 187
+  orig: 181, 187
+  offset: 0, 0
+  index: -1
+symbols/active_stomach
+  rotate: false
+  xy: 507, 914
+  size: 256, 217
+  orig: 256, 217
+  offset: 0, 0
+  index: -1
+symbols/active_throat
+  rotate: false
+  xy: 2, 899
+  size: 257, 232
+  orig: 257, 232
+  offset: 0, 0
+  index: -1
+symbols/active_tofu
+  rotate: false
+  xy: 964, 329
+  size: 167, 170
+  orig: 167, 170
+  offset: 0, 0
+  index: -1
+symbols/floating_bacon
+  rotate: false
+  xy: 756, 283
+  size: 206, 192
+  orig: 206, 192
+  offset: 0, 0
+  index: -1
+symbols/floating_blood
+  rotate: false
+  xy: 507, 710
+  size: 242, 202
+  orig: 242, 202
+  offset: 0, 0
+  index: -1
+symbols/floating_corn
+  rotate: false
+  xy: 2, 525
+  size: 174, 185
+  orig: 174, 185
+  offset: 0, 0
+  index: -1
+symbols/floating_enoki
+  rotate: false
+  xy: 2, 344
+  size: 134, 179
+  orig: 134, 179
+  offset: 0, 0
+  index: -1
+symbols/floating_fishball
+  rotate: false
+  xy: 455, 317
+  size: 195, 193
+  orig: 195, 193
+  offset: 0, 0
+  index: -1
+symbols/floating_lotus
+  rotate: false
+  xy: 466, 512
+  size: 203, 196
+  orig: 203, 196
+  offset: 0, 0
+  index: -1
+symbols/floating_mushroom
+  rotate: false
+  xy: 444, 135
+  size: 191, 180
+  orig: 191, 180
+  offset: 0, 0
+  index: -1
+symbols/floating_potato
+  rotate: true
+  xy: 969, 501
+  size: 175, 160
+  orig: 175, 160
+  offset: 0, 0
+  index: -1
+symbols/floating_prawn
+  rotate: true
+  xy: 753, 100
+  size: 181, 187
+  orig: 181, 187
+  offset: 0, 0
+  index: -1
+symbols/floating_stomach
+  rotate: false
+  xy: 765, 915
+  size: 237, 216
+  orig: 242, 217
+  offset: 5, 1
+  index: -1
+symbols/floating_throat
+  rotate: false
+  xy: 261, 900
+  size: 244, 231
+  orig: 257, 232
+  offset: 13, 1
+  index: -1
+symbols/floating_tofu
+  rotate: false
+  xy: 964, 157
+  size: 167, 170
+  orig: 167, 170
+  offset: 0, 0
+  index: -1

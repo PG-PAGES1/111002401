@@ -1,0 +1,195 @@
+
+bg_fx.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijings/jackpot_bg
+  rotate: true
+  xy: 2, 164
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_00
+  rotate: true
+  xy: 1934, 2
+  size: 242, 142
+  orig: 242, 147
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_01
+  rotate: true
+  xy: 2058, 246
+  size: 242, 142
+  orig: 242, 147
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_02
+  rotate: true
+  xy: 2078, 2
+  size: 242, 142
+  orig: 242, 147
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_03
+  rotate: true
+  xy: 1342, 2
+  size: 242, 146
+  orig: 242, 149
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_04
+  rotate: true
+  xy: 1466, 246
+  size: 242, 146
+  orig: 242, 149
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_05
+  rotate: true
+  xy: 1490, 2
+  size: 242, 146
+  orig: 242, 149
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_06
+  rotate: false
+  xy: 490, 12
+  size: 242, 150
+  orig: 242, 151
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_07
+  rotate: false
+  xy: 2, 9
+  size: 242, 153
+  orig: 242, 153
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_08
+  rotate: false
+  xy: 246, 9
+  size: 242, 153
+  orig: 242, 153
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_09
+  rotate: true
+  xy: 706, 246
+  size: 242, 150
+  orig: 242, 151
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_10
+  rotate: true
+  xy: 734, 2
+  size: 242, 150
+  orig: 242, 151
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_11
+  rotate: true
+  xy: 858, 246
+  size: 242, 150
+  orig: 242, 151
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_12
+  rotate: true
+  xy: 886, 2
+  size: 242, 150
+  orig: 242, 151
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_13
+  rotate: true
+  xy: 1010, 246
+  size: 242, 150
+  orig: 242, 151
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_14
+  rotate: true
+  xy: 1038, 2
+  size: 242, 150
+  orig: 242, 151
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_15
+  rotate: true
+  xy: 1162, 246
+  size: 242, 150
+  orig: 242, 151
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_16
+  rotate: true
+  xy: 1614, 246
+  size: 242, 146
+  orig: 242, 149
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_17
+  rotate: true
+  xy: 1638, 2
+  size: 242, 146
+  orig: 242, 149
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_18
+  rotate: true
+  xy: 1762, 246
+  size: 242, 146
+  orig: 242, 149
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_19
+  rotate: true
+  xy: 1190, 2
+  size: 242, 150
+  orig: 242, 151
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_20
+  rotate: true
+  xy: 1314, 246
+  size: 242, 150
+  orig: 242, 151
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_21
+  rotate: true
+  xy: 1786, 2
+  size: 242, 146
+  orig: 242, 149
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_22
+  rotate: true
+  xy: 1910, 246
+  size: 242, 146
+  orig: 242, 149
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_23
+  rotate: true
+  xy: 2202, 246
+  size: 242, 142
+  orig: 242, 147
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_24
+  rotate: true
+  xy: 2222, 2
+  size: 242, 142
+  orig: 242, 147
+  offset: 0, 0
+  index: -1
+huoyantxtu/fire_pot_25
+  rotate: true
+  xy: 2346, 246
+  size: 242, 142
+  orig: 242, 147
+  offset: 0, 0
+  index: -1

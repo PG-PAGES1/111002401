@@ -1,0 +1,20 @@
+
+zhongjiang.png
+size: 714,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_extended
+  rotate: false
+  xy: 2, 2
+  size: 538, 509
+  orig: 538, 509
+  offset: 0, 0
+  index: -1
+select_ring
+  rotate: false
+  xy: 542, 340
+  size: 170, 171
+  orig: 170, 171
+  offset: 0, 0
+  index: -1

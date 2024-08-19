@@ -1,0 +1,13 @@
+
+light_rotate.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijings/bg_glow_yellow_rotate_qtres
+  rotate: false
+  xy: 2, 2
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1

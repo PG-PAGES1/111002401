@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 298,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jackpot_price_glow
+  rotate: true
+  xy: 266, 68
+  size: 80, 30
+  orig: 80, 31
+  offset: 0, 1
+  index: -1
+zhongjiangtx
+  rotate: false
+  xy: 2, 2
+  size: 262, 146
+  orig: 262, 146
+  offset: 0, 0
+  index: -1

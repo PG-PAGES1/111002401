@@ -1,0 +1,132 @@
+
+xuanzhuananniu.jpg
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniubeijing/mouse_main
+  rotate: false
+  xy: 2, 255
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+anniutexiaotwo/spin_vfx_00
+  rotate: false
+  xy: 241, 11
+  size: 102, 109
+  orig: 130, 131
+  offset: 11, 16
+  index: -1
+anniutexiaotwo/spin_vfx_01
+  rotate: false
+  xy: 128, 2
+  size: 111, 118
+  orig: 130, 131
+  offset: 7, 11
+  index: -1
+anniutexiaotwo/spin_vfx_02
+  rotate: true
+  xy: 2, 3
+  size: 117, 124
+  orig: 130, 131
+  offset: 5, 7
+  index: -1
+anniutexiaotwo/spin_vfx_03
+  rotate: false
+  xy: 477, 34
+  size: 126, 127
+  orig: 130, 131
+  offset: 1, 4
+  index: -1
+anniutexiaotwo/spin_vfx_04
+  rotate: false
+  xy: 2, 122
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+anniutexiaotwo/spin_vfx_05
+  rotate: false
+  xy: 134, 122
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+anniutexiaotwo/spin_vfx_06
+  rotate: false
+  xy: 254, 374
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+anniutexiaotwo/spin_vfx_07
+  rotate: false
+  xy: 266, 163
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+anniutexiaotwo/spin_vfx_08
+  rotate: false
+  xy: 386, 374
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+anniutexiaotwo/spin_vfx_09
+  rotate: false
+  xy: 345, 30
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+anniutexiaotwo/spin_vfx_10
+  rotate: false
+  xy: 398, 163
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+anniutexiaotwo/spin_vfx_11
+  rotate: false
+  xy: 322, 300
+  size: 67, 72
+  orig: 130, 131
+  offset: 21, 40
+  index: -1
+anniutexiaotwo/spin_vfx_12
+  rotate: false
+  xy: 254, 296
+  size: 66, 76
+  orig: 130, 131
+  offset: 22, 40
+  index: -1
+anniutexiaotwo/spin_vfx_13
+  rotate: false
+  xy: 391, 296
+  size: 60, 76
+  orig: 130, 131
+  offset: 24, 39
+  index: -1
+anniutexiaotwo/spin_vfx_14
+  rotate: true
+  xy: 453, 314
+  size: 58, 44
+  orig: 130, 131
+  offset: 25, 55
+  index: -1
+
+
+xuanzhuananniu1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spin_arrow_b
+  rotate: false
+  xy: 2, 2
+  size: 196, 199
+  orig: 198, 199
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+bg.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Soup/Soup_00000
+  rotate: true
+  xy: 2192, 257
+  size: 253, 242
+  orig: 258, 250
+  offset: 5, 0
+  index: -1
+images/Soup/Soup_00001
+  rotate: true
+  xy: 2, 40
+  size: 253, 244
+  orig: 258, 252
+  offset: 5, 0
+  index: -1
+images/Soup/Soup_00002
+  rotate: true
+  xy: 248, 40
+  size: 253, 244
+  orig: 258, 252
+  offset: 5, 0
+  index: -1
+images/Soup/Soup_00003
+  rotate: true
+  xy: 494, 40
+  size: 253, 244
+  orig: 258, 252
+  offset: 5, 0
+  index: -1
+images/Soup/Soup_00004
+  rotate: true
+  xy: 2192, 2
+  size: 253, 242
+  orig: 258, 250
+  offset: 5, 0
+  index: -1
+images/Soup/Soup_00005
+  rotate: true
+  xy: 2436, 257
+  size: 253, 242
+  orig: 258, 250
+  offset: 5, 0
+  index: -1
+images/Soup/Soup_00006
+  rotate: true
+  xy: 2436, 2
+  size: 253, 242
+  orig: 258, 250
+  offset: 5, 0
+  index: -1
+images/Soup/Soup_00007
+  rotate: true
+  xy: 2438, 521
+  size: 253, 242
+  orig: 258, 250
+  offset: 5, 0
+  index: -1
+images/Soup/Soup_00008
+  rotate: false
+  xy: 2643, 776
+  size: 252, 242
+  orig: 258, 250
+  offset: 6, 0
+  index: -1
+images/Soup/Soup_00009
+  rotate: true
+  xy: 2680, 267
+  size: 252, 242
+  orig: 258, 250
+  offset: 6, 0
+  index: -1
+images/Soup/Soup_00010
+  rotate: true
+  xy: 2142, 766
+  size: 252, 244
+  orig: 258, 252
+  offset: 6, 0
+  index: -1
+images/Soup/Soup_00011
+  rotate: true
+  xy: 2192, 512
+  size: 252, 244
+  orig: 258, 252
+  offset: 6, 0
+  index: -1
+images/Soup/Soup_00012
+  rotate: true
+  xy: 2682, 522
+  size: 252, 242
+  orig: 258, 250
+  offset: 6, 0
+  index: -1
+images/Soup/Soup_00013
+  rotate: false
+  xy: 2388, 776
+  size: 253, 242
+  orig: 258, 250
+  offset: 5, 0
+  index: -1
+images/main_ui_devide
+  rotate: true
+  xy: 2, 295
+  size: 723, 692
+  orig: 723, 692
+  offset: 0, 0
+  index: -1
+images/main_ui_oil
+  rotate: true
+  xy: 1192, 517
+  size: 501, 484
+  orig: 501, 484
+  offset: 0, 0
+  index: -1
+images/soup_chilli_a
+  rotate: true
+  xy: 740, 4
+  size: 499, 493
+  orig: 504, 493
+  offset: 5, 0
+  index: -1
+images/soup_chilli_b
+  rotate: true
+  xy: 1235, 21
+  size: 494, 489
+  orig: 494, 489
+  offset: 0, 0
+  index: -1
+images/soup_oil
+  rotate: true
+  xy: 696, 505
+  size: 513, 494
+  orig: 513, 494
+  offset: 0, 0
+  index: -1
+images/soup_pepper_a
+  rotate: false
+  xy: 1726, 65
+  size: 464, 472
+  orig: 466, 473
+  offset: 0, 0
+  index: -1
+images/soup_pepper_b
+  rotate: true
+  xy: 1678, 539
+  size: 479, 462
+  orig: 479, 462
+  offset: 0, 0
+  index: -1
